@@ -2,11 +2,9 @@
 
 ### Software Engineering Student | Aspiring Full-Stack and Android Developer | DevOps Enthusiast
 
-- 🔭 I'm currently working on **familiarizing myself with Jetpack Compose and experimenting with the databases Firebase and Supabase.**
+- 🌱 I'm currently learning **Full-stack and Android development and DevOps**
 
-- 🌱 I'm currently learning **Full-stack and Android development, DevOps and Cybersecurity**
-
-- 🤝 I'm looking for help with **DevOps and Cybersecurity**
+- 🤝 I'm looking for help with **DevOps**
 
 - 💬 Ask me about **React.js, Javascript and Kotlin**
 
