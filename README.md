@@ -1,6 +1,6 @@
 # Hi 👋, I'm Keshen
 
-### Software Engineering Student | Aspiring Android & Full-Stack Developer | DevOps Enthusiast
+### Software Engineering Student | Aspiring Full-Stack and Android Developer | DevOps Enthusiast
 
 - 🔭 I'm currently working on **familiarizing myself with Jetpack Compose and experimenting with the databases Firebase and Supabase.**
 
