@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **React.js, Javascript and Kotlin**
 
-- 📄 **[Know about my experiences](https://drive.google.com/file/d/1Gi5WgYyADzVJqgQStsxbIqawR9ldfYZL/view?usp=sharing)**
-
 ### Recent Notable Projects
 
 - **[Word App](https://github.com/keshster98/word-app)**
