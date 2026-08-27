@@ -1,12 +1,12 @@
 # Hi 👋, I'm Keshen
 
-### Software Engineering Student | Aspiring Full-Stack and Android Developer | DevOps Enthusiast
+### Applied Software Engineering Graduate @ Forward College | Aspiring Full-Stack and Android Developer | DevOps Enthusiast
 
 - 🌱 I'm currently learning **Full-stack and Android development and DevOps**
 
 - 🤝 I'm looking for help with **DevOps**
 
-- 💬 Ask me about **React.js, Javascript and Kotlin**
+- 💬 Ask me about **React.js, React Native and Javascript**
 
 ### Recent Notable Projects
 
